@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodePractices", "LeetCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.csproj", "{AEE5B1E0-EB69-40E0-8C94-513E086F4C2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{35063277-0B1C-438C-AAC3-234BCCBE0E11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AEE5B1E0-EB69-40E0-8C94-513E086F4C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEE5B1E0-EB69-40E0-8C94-513E086F4C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEE5B1E0-EB69-40E0-8C94-513E086F4C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35063277-0B1C-438C-AAC3-234BCCBE0E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35063277-0B1C-438C-AAC3-234BCCBE0E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35063277-0B1C-438C-AAC3-234BCCBE0E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35063277-0B1C-438C-AAC3-234BCCBE0E11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
