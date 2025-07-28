@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36109.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePractices", "CodePractices\CodePractices.csproj", "{A4EE6645-B5C6-46C9-B773-6D08EDB2A02C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoSum", "AddTwoSum\AddTwoSum.csproj", "{F3AD9701-811C-4F31-9F4A-CE468D23C093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryC#", "DictionaryC#\DictionaryC#.csproj", "{CC7597E3-90E6-4E54-869D-DCE19227C0EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A4EE6645-B5C6-46C9-B773-6D08EDB2A02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4EE6645-B5C6-46C9-B773-6D08EDB2A02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4EE6645-B5C6-46C9-B773-6D08EDB2A02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3AD9701-811C-4F31-9F4A-CE468D23C093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AD9701-811C-4F31-9F4A-CE468D23C093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AD9701-811C-4F31-9F4A-CE468D23C093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AD9701-811C-4F31-9F4A-CE468D23C093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7597E3-90E6-4E54-869D-DCE19227C0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7597E3-90E6-4E54-869D-DCE19227C0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7597E3-90E6-4E54-869D-DCE19227C0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7597E3-90E6-4E54-869D-DCE19227C0EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
