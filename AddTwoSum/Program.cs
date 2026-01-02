@@ -8,13 +8,12 @@
          */
         static void Main(string[] args)
         {
-            int[] nums = { 2, 7, 11, 15 };
-            int target = 26;
+            int[] nums = { 2, 8, 4 };
+            int target = 10;
 
             AddTwoSum(nums, target);
-            Console.WriteLine($"{nums[2]} + {nums[3]} = {target}");
-            Console.WriteLine(string.Join(", ", $"{nums[2] + nums[3] == target}"));
-
+            Console.WriteLine($"{nums[0]} + {nums[1]} = {target}");
+            Console.WriteLine(string.Join(", ", $"{nums[0] + nums[1] == target}"));
 
 
         }
@@ -32,26 +31,6 @@
             // check if i array + j array = target 
             //return
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             Console.WriteLine();
             for (int i = 0; i < nums.Length; i++)
             {
@@ -67,16 +46,6 @@
 
             return nums;
 
-
-
-
-
-
-
         }
-
-
-
-
     }
 }

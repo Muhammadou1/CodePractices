@@ -1,4 +1,7 @@
-﻿namespace DictionaryC_
+﻿using System.Linq;
+using System.Xml.Linq;
+
+namespace DictionaryC_
 {
     internal class Program
     {
@@ -18,10 +21,10 @@
                 Console.WriteLine($"Id:{input.Key} Fruit:{input.Value} ");
             }
 
-
-
-
-
+            
         }
+  
     }
 }
+
+
